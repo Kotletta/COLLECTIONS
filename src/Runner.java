@@ -10,7 +10,7 @@ import ModelCar.PassengersType;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
-// модель, стоимость, расход, скорость
+
 public class Runner {
     private static List<Car> cars = Arrays.asList(
             new PassengersCar("Kia Rio", 1500000, 10, 270, PassengersType.SEDAN),
